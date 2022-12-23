@@ -25,7 +25,7 @@ https://github.com/oscarokayama/engenharia-dados/blob/main/00.%20Documentacao/0.
   * 1 . Processo de carga dos dados.pdf (Notebook do processo de carga)
   * 2 . Testes (unitário e integrado).pdf (Notebook com os testes unitários e integrado)
   * 3 . Atividade extra.pdf (Notebook com o export de arquivos csv que será utilizado no powerbi)
-
+  * 4 . Extração de Dados - Usuário.ipynb (Notebook com o export do arquivo flat solicitado pelo usuário)
 
 * 01 . laboratorio (Pasta com os scripts e arquivos utilizados para o desenvolvimento de um laboratório de dados para geração da massa de dados utilizados no projeto)
   
