@@ -9,5 +9,9 @@ Projeto - Engenharia de Dados
 
 Para facilitar o entendimento do projeto, criei um guia que auxilia o entendimento do projeto.
 
-O guia está disponível em: 
+O guia está disponível em:
+
 https://github.com/oscarokayama/engenharia-dados/blob/main/00.%20Documentacao/0.%20Projeto%20-%20Engenharia%20Dados.drawio.pdf
+
+## Estrutura de pastas
+
