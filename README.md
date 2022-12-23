@@ -15,4 +15,4 @@ https://github.com/oscarokayama/engenharia-dados/blob/main/00.%20Documentacao/0.
 
 ## Estrutura de pastas
 
-![](./99. imagens/pastas.png "Pastas")
+![](./99. Imagens/Pastas.png "Pastas")
