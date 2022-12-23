@@ -90,3 +90,17 @@ Criei um ambiente de laboratório para desenvolver uma estrutura inicial dos dad
 Para avaliar a qualidade dos dados gerados no laboratório, resolvi criar um Dash no PowerBI para trazer alguns visões e análises.
 
 ![](./imagens/Powerbi.png "Pastas")
+
+
+## Dificuldades do Projeto
+
+Normalmente utilizo o Docker em minha máquina pessoal Windows para testes e criação de pequenos projetos. Rapidamente montei um ambiente Docker na minha máquina com spark e postgre.
+
+Encontrei um grande desafio para provisionar o ambiente em Docker. Como sempre trabalhei com servidores appliances ou aplicações que tem que fazer a instalação direto no Linux (Redhat/Suse), nunca me preocupei em provisionar uma solução Docker.
+
+Tive que relembrar muitos conceitos de Docker e ler muitas documentações para provisionar uma máquina Docker. Depois de provisionar, passei por muitos situações, como perder todas as configurações quando reinicia a máquina, alocar um volume permanente e falta de espaço no ambiente. Até deixar o ambiente 100%, levei 1 dia para configurar e deixar o ambiente apto para o desenvolvimento.
+
+## Mais informações
+
+Para um detalhamento melhor do projeto, favor entrar em contato através do e-mail: oscar.okayama@hotmail.com
+
