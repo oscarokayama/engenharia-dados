@@ -15,7 +15,7 @@ https://github.com/oscarokayama/engenharia-dados/blob/main/00.%20Documentacao/0.
 
 ## Estrutura de pastas
 
-![PASTAS!](./99. Imagens/Pastas.png "Pastas")
+![PASTAS!]("./99. Imagens/Pastas.png" "Pastas")
 
 * spark: Spark Master.
     * Image: bitnami/spark:3.1.2
