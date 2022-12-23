@@ -15,3 +15,11 @@ https://github.com/oscarokayama/engenharia-dados/blob/main/00.%20Documentacao/0.
 
 ## Estrutura de pastas
 
+![PASTAS!]("./99. Imagens/Pastas.png" "Pastas")
+
+* spark: Spark Master.
+    * Image: bitnami/spark:3.1.2
+    * Port: 8181
+    * References: 
+      * https://github.com/bitnami/bitnami-docker-spark
+      * https://hub.docker.com/r/bitnami/spark/tags/?page=1&ordering=last_updated
