@@ -5,7 +5,7 @@ Projeto - Engenharia de Dados
   
   Data: 22/12/2022
 
-## Documentação
+## Resumo do projeto
 
 Para facilitar o entendimento do projeto, criei um guia que auxilia o entendimento do projeto.
 
