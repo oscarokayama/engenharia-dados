@@ -11,7 +11,7 @@ Para facilitar o entendimento do projeto, criei um guia que auxilia o entendimen
 
 O guia está disponível em:
 
-![](./imagens/Projeto.png "Pastas")
+![](./imagens/Projeto.png "Projeto")
 
 https://github.com/oscarokayama/engenharia-dados/blob/main/00.%20Documentacao/0.%20Projeto%20-%20Engenharia%20Dados.drawio.pdf
 
@@ -89,7 +89,7 @@ Criei um ambiente de laboratório para desenvolver uma estrutura inicial dos dad
 
 Para avaliar a qualidade dos dados gerados no laboratório, resolvi criar um Dash no PowerBI para trazer alguns visões e análises.
 
-![](./imagens/Powerbi.png "Pastas")
+![](./imagens/Powerbi.png "Power BI")
 
 
 ## Dificuldades do Projeto
