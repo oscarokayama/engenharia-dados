@@ -1,0 +1,1 @@
+psql -U airflow -a -f /docker-entrypoint-initdb.d/exec/init.sql
