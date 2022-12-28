@@ -37,7 +37,7 @@ Procurar nos logs de execução a seguinte linha "http://127.0.0.1:8888/?token="
 
 ![](./doc/Logs.png "Pastas")
 
-Copiar a URL e abrir no navegador
+Copiar a URL e abra no navegador
 
 ![](./doc/Jupyter.png "Jupyter")
 
