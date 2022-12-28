@@ -4,23 +4,23 @@
 
 ### 1. Clonar o projeto:
 
-        $ git clone https://github.com/oscarokayama/engenharia-dados
+$ git clone https://github.com/oscarokayama/engenharia-dados
   
 ### 2. Navegar até a pasta:
 
-        $ cd '.\engenharia-dados\07. Docker\airflow-spark\docker\docker-airflow\'
+$ cd '.\engenharia-dados\07. Docker\airflow-spark\docker\docker-airflow\'
   
 ### 3. Fazer build do projeto:
 
-        $ docker build --rm --force-rm -t docker-airflow-spark:1.10.7_3.1.2 .
+$ docker build --rm --force-rm -t docker-airflow-spark:1.10.7_3.1.2 .
 
 ### 4. Voltar ao diretório onde está o arquivo "docker-compose.yml":
 
-        $ cd ..
+$ cd ..
 
 ### 5. Rodar o docker-compose:
 
-        $ docker-compose up
+$ docker-compose up
 
 
 
