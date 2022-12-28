@@ -22,16 +22,19 @@
 
     $ docker-compose up
 
-    * Obs: pode acontecer do postgres não subir, abortar a execução CTRL + C e rodar novamente o docker-compose:
-
-    $ docker-compose up
     
 ### 6. Assim que rodar o projeto, abrir novo terminal e executar o seguinte comando para criar a base de dados:
 
     $ docker exec -it docker_postgres_1 /bin/bash -c "/docker-entrypoint-initdb.d/exec/init.sh"
 
+   * Obs: pode acontecer do postgres não subir, abortar a execução CTRL + C e rodar novamente o docker-compose:
 
-
+    $ docker-compose up
+    
+   Rodar novamente o script de criação da base de dados:
+    
+    $ docker exec -it docker_postgres_1 /bin/bash -c "/docker-entrypoint-initdb.d/exec/init.sh"
+    
 
 ## Scripts
 
