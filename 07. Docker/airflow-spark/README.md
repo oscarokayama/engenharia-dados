@@ -43,6 +43,27 @@ docker build --rm --force-rm -t docker-airflow-spark:1.10.7_3.1.2 .
 
 Procurar nos logs de execução a seguinte linha "http://127.0.0.1:8888/?token=": 
 
+![](./doc/Logs.png "Pastas")
+
 Copiar a URL e abrir no navegador
 
+![](./doc/Jupyter.png "Jupyter")
 
+No Jupyter, entrar na pasta work:
+
+<img width="874" alt="image" src="https://user-images.githubusercontent.com/43223506/209741664-12e02489-7762-4603-bb47-39f2239c61aa.png">
+
+Pastas:
+
+  * csv
+  
+    ** Pasta onde ficam os arquivos csv de origem
+    
+  * export
+  
+    ** Pasta onde é gerado os arquivos flat
+    
+  * notebooks
+  
+    ** Pasta onde ficam os scripts de carga/teste/geração de arquivos
+    
