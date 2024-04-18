@@ -1,4 +1,4 @@
-# Engenharia Dados - Utilizando Spark
+# Engenharia Dados Fácil - Docker (Utilizando Spark, Postgres e Airflow)
 Projeto - Engenharia de Dados
 
   Objetivo do projeto: desenvolver uma estrutura de dados, que possibilidade a entrega dos dados com maior velocidade e assertividade para a equipe de ciência de dados.
