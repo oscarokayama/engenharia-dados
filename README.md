@@ -1,4 +1,4 @@
-# Engenharia Dados Fácil - Docker (Utilizando Spark, Postgres e Airflow)
+# Engenharia Dados - Docker (Utilizando Spark, Postgres e Airflow)
 Projeto - Engenharia de Dados
 
   Objetivo do projeto: mostrar de forma simples, um projeto de engenharia de dados, que pode ser feito em qualquer lugar utilizando Docker. Um projeto simples que traz a arquitetura do ambiente, a estrutura de dados e a disponibilização dos dados com maior velocidade e assertividade para a equipe de ciência de dados.
